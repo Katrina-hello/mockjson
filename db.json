@@ -1,5 +1,5 @@
 {
-"posts":[
+"staffs":[
 {"id":1, "name":"jack", "email":"123@gmail.com","department":"marketing","department description":"good"},
 {"id":2, "name":"chen", "email":"123e@gmail.com","department":"sale","department description":"ok"},
 {"id":3, "name":"ami", "email":"1232e@gmail.com","department":"develop","department description":"hard"},

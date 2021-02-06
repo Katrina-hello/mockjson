@@ -1,0 +1,13 @@
+{
+"posts":[
+{"id":1, "name":"jack", "email":"123@gmail.com","department":"marketing","department description":"good"},
+{"id":2, "name":"chen", "email":"123e@gmail.com","department":"sale","department description":"ok"},
+{"id":3, "name":"ami", "email":"1232e@gmail.com","department":"develop","department description":"hard"},
+{"id":4, "name":"chen", "email":"12re3@gmail.com","department":"marketing","department description":"good"},
+{"id":5, "name":"ben", "email":"12df3@gmail.com","department":"sale","department description":"ok"},
+{"id":6, "name":"naduni", "email":"1ggg23@gmail.com","department":"sale","department description":"ok"},
+{"id":7, "name":"ade", "email":"123ee@gmail.com","department":"marketing","department description":"good"},
+{"id":8, "name":"adder", "email":"1ee23@gmail.com","department":"develop","department description":"hard"},
+{"id":9, "name":"liu", "email":"123ferr@gmail.com","department":"marketing","department description":"good"}
+]
+}
